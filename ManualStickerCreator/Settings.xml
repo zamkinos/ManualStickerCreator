@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Root>
+  <!--Default values.......-->
+  <Quantity>1</Quantity>
+  <Line1>Invoice No.</Line1>
+  <Line2>Invoice Date</Line2>
+  <Line3>MADE IN MALAYSIA</Line3>
+  <LeftMarginLine1>270</LeftMarginLine1>
+  <LeftMarginLine2>270</LeftMarginLine2>
+  <LeftMarginLine3>270</LeftMarginLine3>
+  <TopMarginLine1>10</TopMarginLine1>
+  <TopMarginLine2>60</TopMarginLine2>
+  <TopMarginLine3>110</TopMarginLine3>
+  <FontWidthLine1>40</FontWidthLine1>
+  <FontWidthLine2>40</FontWidthLine2>
+  <FontWidthLine3>40</FontWidthLine3>
+  <FontLengthLine1>40</FontLengthLine1>
+  <FontLengthLine2>40</FontLengthLine2>
+  <FontLengthLine3>40</FontLengthLine3>
+</Root>
